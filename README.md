@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="width:300px !important; display: inline-block;" data-target="animated-image.originalImage">
 
-- 🌱 I’m currently learning **Node.js, React Native**
+- 🌱 I’m currently learning **Node.js, React Native, Laravel**
 
 - 💬 Ask me about **Android , Flutter ,**
 
@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-sameer-humishan&show_icons=true&locale=en&layout=compact" alt="ahmed-sameer-humishan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-sameer-humishan&show_icons=true&locale=en" alt="ahmed-sameer-humishan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-humishan&show_icons=true&locale=en" alt="ahmed-humishan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sameer-humishan&" alt="ahmed-sameer-humishan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-humishan&" alt="ahmed-humishan" /></p>
